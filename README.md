@@ -13,5 +13,5 @@
 - **<assignment_name>.pkt**    → Ready to run Cisco Packet Tracer File
 
 
-### Note:
+## Note:
 - eigrp 2 = network ip subnet; eigrp 3 = network ip (only diff in command)
