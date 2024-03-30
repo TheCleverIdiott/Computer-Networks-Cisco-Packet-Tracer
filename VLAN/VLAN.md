@@ -1,3 +1,7 @@
+<img width="702" alt="image" src="https://github.com/TheCleverIdiott/CN-Lab/assets/95587262/eb73379f-f076-4afe-8b9c-d92bfe7f63ba">
+
+
+
 ## IP Configuration:
 ```
 PC0 - 192.168.10.2 | 10.0.0.0
