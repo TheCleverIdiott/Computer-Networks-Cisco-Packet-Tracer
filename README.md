@@ -1,6 +1,7 @@
 # Assignment List:
 - RIP
-- EIGRP 
+- EIGRP
+- DHCP
 - ACL
 - NAT (Static NAT)
 - PAT (NAT Overloading)
