@@ -1,3 +1,7 @@
+<img width="436" alt="image" src="https://github.com/TheCleverIdiott/CN-Lab/assets/95587262/3ca3a176-7b1f-4984-8222-c1f44019f266">
+
+
+
 ## Functional Ports:
 ```
 PC0 - 
