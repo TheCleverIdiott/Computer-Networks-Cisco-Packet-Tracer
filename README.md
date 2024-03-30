@@ -1,5 +1,5 @@
 # Assignment List:
-- EIGRP [eigrp 2 = network ip subnet; eigrp 3 = network ip (only diff in command)]
+- EIGRP 
 - ACL
 - NAT (Static NAT)
 - PAT (NAT Overloading)
@@ -11,3 +11,7 @@
 - **<assignment_name>.md**      → Configuration Codes
 - **<assignment_name_DOC>.pdf** → Report + Screenshots
 - **<assignment_name>.pkt**    → Ready to run Cisco Packet Tracer File
+
+
+### Note:
+- eigrp 2 = network ip subnet; eigrp 3 = network ip (only diff in command)
