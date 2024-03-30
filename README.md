@@ -1,4 +1,5 @@
 # Assignment List:
+- EIGRP
 - ACL
 - NAT (Static NAT)
 - PAT (NAT Overloading)
