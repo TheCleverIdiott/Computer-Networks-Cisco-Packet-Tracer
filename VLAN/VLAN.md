@@ -33,7 +33,7 @@ Switch(config)#
 
 Switch(config)#
 ```
-### Configure Router In this step Then follow the Rest of the switch code...
+Configure Router In this step Then follow the Rest of the switch code...
 ```
 Switch(config)#
 Switch(config)#interface gi 0/1
@@ -103,4 +103,4 @@ Router(config-subif)#ip address 192.168.11.1 255.255.255.0
 Router(config-subif)#exit
 Router(config)#
 ```
-### Now go back and complete switch code
+Now go back and complete switch code
