@@ -1,4 +1,5 @@
 # Assignment List:
+- RIP
 - EIGRP 
 - ACL
 - NAT (Static NAT)
