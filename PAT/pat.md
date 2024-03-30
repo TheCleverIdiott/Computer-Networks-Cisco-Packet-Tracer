@@ -76,6 +76,11 @@ Router#
 %SYS-5-CONFIG_I: Configured from console by console
 Router#
 Router#show ip nat translations
+```
+[Nothing was shown because nothing was pinged /  No packet was sent]
+
+OVER HERE OPEN PCO OR PC1 AND WRITE IN COMMAND PROMPT "ping 192.168.11.2" THEN RUN "show ip nat translations"
+```
 Router#
 Router#
 Router#show ip nat translations
