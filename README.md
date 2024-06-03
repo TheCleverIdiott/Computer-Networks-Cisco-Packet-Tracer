@@ -1,4 +1,8 @@
-# Assignment List:
+# A Repository containing the Codes to run a Cisco Paket Tracer Simulation for the course Computer Networks in B.Tech
+
+
+
+### Assignment List:
 - RIP
 - EIGRP
 - OSPF
@@ -10,11 +14,8 @@
 
 
 
-## Every Assignment Contains the following:
+### Every Assignment Contains the following:
 - **<assignment_name>.md**      → Configuration Codes
 - **<assignment_name_DOC>.pdf** → Report + Screenshots
 - **<assignment_name>.pkt**    → Ready to run Cisco Packet Tracer File
 
-
-## Note:
-- eigrp 2 = network ip subnet; eigrp 3 = network ip (only diff in command)
