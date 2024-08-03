@@ -56,6 +56,7 @@ Each assignment directory contains the following files:
 │   ├── VLAN.md
 │   ├── VLAN_DOC.pdf
 │   ├── VLAN.pkt
+```
 
 
 ## Getting Started
